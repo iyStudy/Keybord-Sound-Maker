@@ -14,7 +14,7 @@ threading
 
 これらのライブラリは、以下のコマンドでインストールできます：
 ~~~
-pip install keyboard pygame pillow
+pip install -r requirements.txt
 ~~~
 注意: tkinterはPythonの標準ライブラリであるため、通常はインストールする必要はありません。
 
